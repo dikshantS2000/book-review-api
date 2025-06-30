@@ -38,7 +38,7 @@ Python Backend Assessment/
 1.Clone the Repository
 
 ```
-git clone https://github.com/your-username/book-review-api.git
+https://github.com/dikshantS2000/book-review-api.git
 cd book-review-api
 ```
 
